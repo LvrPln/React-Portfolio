@@ -20,15 +20,13 @@ function App() {
         </ul>
       </nav>
 
-      <div id="home">
-        <Home />
-      </div>
-      <div id="skills">
+      <Home />
+      <section id="skills">
         <SkillsExperience />
-      </div>
-      <div id="contact">
+      </section>
+      <section id="contact">
         <Contact />
-      </div>
+      </section>
     </div>
   );
 }
