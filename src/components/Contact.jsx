@@ -6,10 +6,10 @@ const Contact = () => {
     <div className="contact-container">
         <h2>Contact</h2>
         <div className="contact-info">
-            <p><FaEnvelope /> <strong>Email:</strong> elvirapaliane16@gmail.com</p>
+            <p><FaEnvelope /> <strong>Email:</strong> elvirapialane16@gmail.com</p>
             <p><FaPhone /> <strong>Phone:</strong> 09634983705</p>
-            <p><FaInstagram /> <strong>Instagram:</strong> elviJp</p>
-            <p><FaTiktok /> <strong>Tiktok:</strong> @Viraa</p>
+            <p><FaInstagram /> <strong>Instagram:</strong> https://www.instagram.com/elviijp/</p>
+            <p><FaTiktok /> <strong>Tiktok:</strong> https://www.tiktok.com/@elviijp</p>
             <p><FaGithub /> <strong>GitHub:</strong> LvrPn</p>
         </div>
 
