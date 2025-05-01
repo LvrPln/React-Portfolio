@@ -15,19 +15,19 @@ const Contact = () => {
                 </p>
                 <p>
                     <FaFacebook /> <strong>Facebook:</strong>{" "}
-                    <a href="https://www.facebook.com/elvira.pialane" target="_blank" rel="noopener noreferrer">Elvira Pialane</a>
+                    <a href="https://www.facebook.com/elvira.pialane13" target="_blank" rel="noopener noreferrer">Elvira Pialane</a>
                 </p>
                 <p>
                     <FaInstagram /> <strong>Instagram:</strong>{" "}
-                    <a href="https://www.instagram.com/elviijp" target="_blank" rel="noopener noreferrer">@elviijp</a>
+                    <a href="https://www.instagram.com/elviijp/" target="_blank" rel="noopener noreferrer">@elviijp</a>
                 </p>
                 <p>
                     <FaTiktok /> <strong>Tiktok:</strong>{" "}
-                    <a href="https://www.tiktok.com/@Viraa" target="_blank" rel="noopener noreferrer">@Viraa</a>
+                    <a href="https://www.tiktok.com/@elviijp" target="_blank" rel="noopener noreferrer">@Viraa</a>
                 </p>
                 <p>
                     <FaGithub /> <strong>GitHub:</strong>{" "}
-                    <a href="https://github.com/LvrPn" target="_blank" rel="noopener noreferrer">LvrPn</a>
+                    <a href="https://github.com/LvrPln" target="_blank" rel="noopener noreferrer">LvrPn</a>
                 </p>
             </div>
 
