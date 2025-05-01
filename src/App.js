@@ -1,6 +1,7 @@
 import Home from "./components/Home";
 import SkillsExperience from "./components/About";
 import Contact from "./components/Contact";
+import Project from "./components/Project";
 
 function App() {
   const scrollToSection = (id) => {
@@ -17,12 +18,17 @@ function App() {
           <li><button onClick={() => scrollToSection("home")}>Home</button></li>
           <li><button onClick={() => scrollToSection("skills")}>Skills & Experience</button></li>
           <li><button onClick={() => scrollToSection("contact")}>Contact</button></li>
+          <li><button onClick={() => scrollToSection("project")}>Project</button></li>
         </ul>
       </nav>
 
       <Home />
       <section id="skills">
         <SkillsExperience />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
       </section>
       <section id="contact">
         <Contact />
