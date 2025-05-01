@@ -3,7 +3,7 @@ import Mee from '../image/meee.jpg';
 
 const Home = () => {
     return (
-    <section className="home-container">
+    <section className="home-container" id="home">
         <div className="info-style">
         <h1>
             Hi, I'm <strong>Vira</strong>
